@@ -59,7 +59,7 @@ class person {
 }
 
 
-//Inherit from one class to another in php with the help of extendes keyword
+//Inherit from one class to another in php with the help of extends keyword
 
 /*
   Inheritance allows a class to get propeerties and methods from other class
